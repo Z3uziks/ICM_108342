@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Practice - ComposeBasics (Second)</string>
+    <string name="first_des">All tasks completed</string>
+    <string name="sec_des">Nice work!</string>
+</resources>
